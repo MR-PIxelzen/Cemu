@@ -35,7 +35,7 @@
 	url = https://github.com/AzagraMac/FidelityFX-SDK-FSR3
 	shallow = true
 [submodule "VulkanMemoryAllocator"]
-	path = externals/VulkanMemoryAllocator
+	path = dependencies/VulkanMemoryAllocator
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
 	shallow = true
 	
