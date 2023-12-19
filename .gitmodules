@@ -16,3 +16,22 @@
 [submodule "dependencies/imgui"]
 	path = dependencies/imgui
 	url = https://github.com/ocornut/imgui
+[submodule "dependencies/xess"]
+	path = dependencies/xess
+	url = https://github.com/intel/xess
+[submodule "dependencies/FidelityFX-FSR"]
+	path = dependencies/FidelityFX-FSR
+	url = https://github.com/GPUOpen-Effects/FidelityFX-FSR
+[submodule "dependencies/FidelityFX-FSR2"]
+	path = dependencies/FidelityFX-FSR2
+	url = https://github.com/GPUOpen-Effects/FidelityFX-FSR2
+	
+[submodule "dependencies/FidelityFX-FSR3"]
+	path = dependencies/FidelityFX-FSR3
+	url = https://github.com/AzagraMac/FidelityFX-SDK-FSR3
+[submodule "VulkanMemoryAllocator"]
+	path = externals/VulkanMemoryAllocator
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+	
+
+
